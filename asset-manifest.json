@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/Buscador_De-_Gifs/static/js/main.c18a96c9.chunk.js",
+    "main.js.map": "/Buscador_De-_Gifs/static/js/main.c18a96c9.chunk.js.map",
+    "runtime-main.js": "/Buscador_De-_Gifs/static/js/runtime-main.888f1648.js",
+    "runtime-main.js.map": "/Buscador_De-_Gifs/static/js/runtime-main.888f1648.js.map",
+    "static/css/2.383c0125.chunk.css": "/Buscador_De-_Gifs/static/css/2.383c0125.chunk.css",
+    "static/js/2.fc36970f.chunk.js": "/Buscador_De-_Gifs/static/js/2.fc36970f.chunk.js",
+    "static/js/2.fc36970f.chunk.js.map": "/Buscador_De-_Gifs/static/js/2.fc36970f.chunk.js.map",
+    "index.html": "/Buscador_De-_Gifs/index.html",
+    "static/css/2.383c0125.chunk.css.map": "/Buscador_De-_Gifs/static/css/2.383c0125.chunk.css.map",
+    "static/js/2.fc36970f.chunk.js.LICENSE.txt": "/Buscador_De-_Gifs/static/js/2.fc36970f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.888f1648.js",
+    "static/css/2.383c0125.chunk.css",
+    "static/js/2.fc36970f.chunk.js",
+    "static/js/main.c18a96c9.chunk.js"
+  ]
+}
